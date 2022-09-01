@@ -1,6 +1,8 @@
 # TestTaskFrontend
 Test task found on the Work.ua. Was comleted with React and Redux.
 
+You can try it here: https://test-task-frontend-one.vercel.app/
+
 Full list of packages used in this project:
 
 - react-hook-form: v7.34.2,

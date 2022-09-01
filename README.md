@@ -3,6 +3,8 @@ Test task found on the Work.ua. Was comleted with React and Redux.
 
 You can try it here: https://test-task-frontend-one.vercel.app/
 
+Source code: https://github.com/i-am-yay-code/TestTaskFrontend-dev
+
 Full list of packages used in this project:
 
 - react-hook-form: v7.34.2,
